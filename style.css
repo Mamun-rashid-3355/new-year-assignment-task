@@ -127,6 +127,31 @@ margin-left: 32px;
     .protfolio{
         margin: 50px 120px 0px 120px;
     }
+    .protfolio-sub-intro{
+        color: #F00;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+    }
+    .protfolio-heading{
+        color: #070211;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+    }
+    .protfolio-descrption{
+        color: rgba(7, 2, 17, 0.60);
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; 
+width: 750px;
+margin-bottom: 48px;
+    }
 
     .protfolio-images{
          width: 100%;
